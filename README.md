@@ -68,11 +68,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
-```y_pred```
+## y_pred
 ![image](https://github.com/user-attachments/assets/802da7af-9530-4e58-8299-9c0386b48b51)
-```print(classification_report1)```
+## print(classification_report1)
 ![image](https://github.com/user-attachments/assets/39b220cb-d6cb-4ac1-919b-17d95636abec)
-```lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
+## lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/user-attachments/assets/8c735e1f-abcb-4513-b305-6c0ace966316)
 
 
