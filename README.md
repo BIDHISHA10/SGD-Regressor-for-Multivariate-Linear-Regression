@@ -25,9 +25,6 @@ Developed by: GOGINENI BIDHISHA
 RegisterNumber:212223040048
 
 /*
-Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: B.NIHITHA RANI 
-RegisterNumber:  212223040131
 */
 import pandas as pd
 data=pd.read_csv("C:/Users/Admin/Desktop/Placement_Data.csv")
